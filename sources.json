@@ -1,0 +1,93 @@
+[
+  {
+    "source_type": "facebook_group",
+    "name": "21st Century Humor",
+    "username": "966458157507349",
+    "min_reaction": {
+      "photo": "15000",
+      "video_inline": "15000"
+    }
+  },
+  {
+    "source_type": "facebook_group",
+    "name": "ScienceMemes",
+    "username": "ScienceMemes",
+    "min_reaction": {
+      "photo": "8000",
+      "video_inline": "8000"
+    }
+  },
+  {
+    "source_type": "facebook_group",
+    "name": "You Laugh, You Lose",
+    "username": "703101757135974",
+    "min_reaction": {
+      "photo": "6000",
+      "video_inline": "6000"
+    }
+  },
+  {
+    "source_type": "facebook_group",
+    "name": "Cat Memes",
+    "username": "923931037938226",
+    "min_reaction": {
+      "photo": "18000",
+      "video_inline": "18000"
+    }
+  },
+  {
+    "source_type": "facebook_group",
+    "name": "SIGMA RULES",
+    "username": "841831390067098",
+    "min_reaction": {
+      "photo": "1000",
+      "video_inline": "1000"
+    }
+  },
+  {
+    "source_type": "facebook_group",
+    "name": "Ryan Gosling is literally me",
+    "username": "557201552882683",
+    "min_reaction": {
+      "photo": "2000",
+      "video_inline": "2000"
+    }
+  },
+  {
+    "source_type": "facebook_group",
+    "name": "8kb of 1440p memes : Groove Battle",
+    "username": "2765173437119338",
+    "min_reaction": {
+      "photo": "16000",
+      "video_inline": "16000"
+    }
+  },
+  {
+    "source_type": "facebook_group",
+    "name": "Programming Jokes & MeMes",
+    "username": "2616981278627207",
+    "min_reaction": {
+      "photo": "8000",
+      "video_inline": "8000"
+    }
+  },
+  {
+    "source_type": "facebook_group",
+    "name": "Family Guy Posting",
+    "username": "4658804394140797",
+    "min_reaction": {
+      "photo": "6000",
+      "video_inline": "6000"
+    }
+  },
+  {
+    "source_type": "facebook_group",
+    "name": "I steal memes just to make you happy",
+    "username": "767820650692137",
+    "min_reaction": {
+      "photo": "5000",
+      "video_inline": "5000"
+    }
+  }
+]
+
